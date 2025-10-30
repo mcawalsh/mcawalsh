@@ -11,17 +11,14 @@ I design, build, and operate distributed systems on Azure. Recent focus: **AKS, 
 ## Now / What I'm working on
 
 * Finalising **AZ‑204 (Azure Developer Associate)**.
-* Expanding demos for **API Management policies** and **Cosmos DB change feed**.
+* Building public demos for AKS (Helm/HPA/probes), API Management policies, and OTel → Application Insights. (Not production experience yet.)
 
 ## Stack
 
-**Languages:** C#, SQL, JavaScript/TypeScript, Python (working)
-
-**Azure:** AKS, ACR, App Service, Functions, Service Bus, API Management, Monitor/App Insights, Key Vault
-
-**DevOps:** Azure Pipelines, GitHub Actions, Docker, Helm, Terraform
-
-**Practices:** Microservices, messaging & integration patterns, CI/CD (blue/green, canary), observability (logs/metrics/traces)
+* **Languages:** C#, SQL, JavaScript/TypeScript, Python (working)
+* **Azure:** AKS, ACR, App Service, Functions, Service Bus, API Management, Monitor/App Insights, Key Vault
+* **DevOps:** Azure Pipelines, GitHub Actions, Docker, Helm, Terraform
+* **Practices:** Microservices, messaging & integration patterns, CI/CD (blue/green, canary), observability (logs/metrics/traces)
 
 ## Contact
 
