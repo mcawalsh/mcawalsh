@@ -22,6 +22,6 @@ I design, build, and operate distributed systems on Azure. Recent focus: **AKS, 
 
 ## Contact
 
-* Email: [mca.walsh@gmail.com]
-* LinkedIn: [https://www.linkedin.com/in/[michael-walsh-a5847925](https://www.linkedin.com/in/michael-walsh-a5847925/)]
-* Medium: [https://medium.com/@mca.walsh](https://medium.com/@mca.walsh)
+- Email: [mca.walsh@gmail.com](mailto:mca.walsh@gmail.com)
+- LinkedIn: [linkedin.com/in/michael-walsh-a5847925](https://www.linkedin.com/in/michael-walsh-a5847925)
+- Medium: [medium.com/@mca.walsh](https://medium.com/@mca.walsh)
