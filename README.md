@@ -5,8 +5,8 @@ I design, build, and operate distributed systems on Azure. Recent focus: **AKS, 
 ## Highlights
 
 * **AKS demo (Helm + HPA + probes + OTel/App Insights)**
-  Repo: [https://github.com/mcawalsh/aks-dotnet9-demo](https://github.com/mcawalsh/aks-dotnet9-demo)
-  Article: [https://medium.com/@mca.walsh/exploring-azure-kubernetes-service-aks-deploying-scaling-and-observing-a-net-9-api-6fbd39676907](https://medium.com/@mca.walsh/exploring-azure-kubernetes-service-aks-deploying-scaling-and-observing-a-net-9-api-6fbd39676907)
+  * Repo: [https://github.com/mcawalsh/aks-dotnet9-demo](https://github.com/mcawalsh/aks-dotnet9-demo)
+  * Article: [https://medium.com/@mca.walsh/exploring-azure-kubernetes-service-aks-deploying-scaling-and-observing-a-net-9-api-6fbd39676907](https://medium.com/@mca.walsh/exploring-azure-kubernetes-service-aks-deploying-scaling-and-observing-a-net-9-api-6fbd39676907)
 
 ## Now / What I'm working on
 
@@ -22,6 +22,7 @@ I design, build, and operate distributed systems on Azure. Recent focus: **AKS, 
 
 ## Contact
 
-- Email: [mca.walsh@gmail.com](mailto:mca.walsh@gmail.com)
-- LinkedIn: [linkedin.com/in/michael-walsh-a5847925](https://www.linkedin.com/in/michael-walsh-a5847925)
-- Medium: [medium.com/@mca.walsh](https://medium.com/@mca.walsh)
+- 📧 Email: [mca.walsh@gmail.com](mailto:mca.walsh@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/michael-walsh-a5847925](https://www.linkedin.com/in/michael-walsh-a5847925)
+- 🌐 Website: [https://www.michaelwalsh.co.uk](https://www.michaelwalsh.co.uk)
+- ✍️ Medium: [medium.com/@mca.walsh](https://medium.com/@mca.walsh)
